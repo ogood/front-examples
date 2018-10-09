@@ -2,26 +2,26 @@
 
 ## projects using pure html/css/javascript  
 - slide show   
-<img src="https://gitee.com/starte/front-examples/raw/master/slideshow/screen.png" width="500" />  
-open source:[YES](https://gitee.com/starte/front-examples/blob/master/slideshow) 
+<img src="https://gitee.com/starte/front-examples/raw/master/slideshow/screen.png" width="500" /><br />
+open source:[YES](https://gitee.com/starte/front-examples/blob/master/slideshow)   
 [demo](https://ogood.github.io/front-examples/slideshow/index.html)  
 
 - a simple home page  
-<img src="https://gitee.com/starte/front-examples/raw/master/homepage-jq/screen.png" width="500" />  
-open source:[YES](https://gitee.com/starte/front-examples/blob/master/homepage-jq) 
+<img src="https://gitee.com/starte/front-examples/raw/master/homepage-jq/screen.png" width="500" /><br />
+open source:[YES](https://gitee.com/starte/front-examples/blob/master/homepage-jq)   
 [demo](https://ogood.github.io/front-examples/homepage-jq/index.html)
 
 - a functional home page  
 built completely based on UI designer's sketch prototype  
-![screenshot](https://gitee.com/starte/front-examples/raw/master/images/screenshot1.png)  
-open source:NO 
+<img src="https://gitee.com/starte/front-examples/raw/master/images/screenshot1.png" width="500" /><br />
+open source:NO   
 [demo](https://bot-web.chinacloudsites.cn/home.html)
 
 ## Reactjs projects  
 - chat bot and user's dashboard  
 built completely based on UI designer's prototype  
 using react/redux/redux-sagas/react-router/webpack...  
-<img src="https://gitee.com/starte/front-examples/raw/master/images/screenshot2.pngg" width="500" />
+<img src="https://gitee.com/starte/front-examples/raw/master/images/screenshot2.png" width="500" />
 <img src="https://gitee.com/starte/front-examples/raw/master/images/screenshot3.png" width="500" />
 
 ```
@@ -55,5 +55,5 @@ using react/redux/redux-sagas/react-router/webpack...
     "styled-components": "^3.4.8"
   }
 ```
-open source:NO 
+open source:NO   
 [demo](https://bot-web.chinacloudsites.cn)
