@@ -6,12 +6,12 @@
 open source:[YES](https://gitee.com/starte/front-examples/blob/master/slideshow)   
 [demo](https://ogood.github.io/front-examples/slideshow/index.html)  
 
-- a simple home page  
+- a plain home page  
 <img src="https://gitee.com/starte/front-examples/raw/master/homepage-jq/screen.png" width="500" /><br />
 open source:[YES](https://gitee.com/starte/front-examples/blob/master/homepage-jq)   
 [demo](https://ogood.github.io/front-examples/homepage-jq/index.html)
 
-- a functional home page  
+- a home page with slide effect  
 built completely based on UI designer's sketch prototype  
 <img src="https://gitee.com/starte/front-examples/raw/master/images/screenshot1.png" width="500" /><br />
 open source:NO   
