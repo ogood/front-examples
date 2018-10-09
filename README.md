@@ -22,7 +22,8 @@ open source:NO
 built completely based on UI designer's prototype  
 using react/redux/redux-sagas/react-router/webpack...  
 <img src="https://gitee.com/starte/front-examples/raw/master/images/screenshot2.png" width="600" />
-<img src="https://gitee.com/starte/front-examples/raw/master/images/screenshot3.png" width="600" /><br />  
+<img src="https://gitee.com/starte/front-examples/raw/master/images/screenshot3.png" width="600" /><br />
+
 ```
 "devDependencies": {
     "@babel/core": "^7.0.1",
