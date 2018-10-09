@@ -12,15 +12,15 @@ open source:[YES](https://gitee.com/starte/front-examples/blob/master/homepage-j
 [demo](https://ogood.github.io/front-examples/homepage-jq/index.html)
 
 - a home page with slide effect  
-built completely based on UI designer's sketch prototype  
+built completely based on UI designer's sketch prototype from scratch    
 <img src="https://gitee.com/starte/front-examples/raw/master/images/screenshot1.png" width="600" /><br />
 open source:NO   
 [demo](https://bot-web.chinacloudsites.cn/home.html)
 
 ## Reactjs projects  
 - chat bot and user's dashboard  
-built completely based on UI designer's prototype  
-using react/redux/redux-sagas/react-router/webpack...  
+built completely based on UI designer's sketch prototype from scratch.  
+use react/redux/redux-sagas/react-router/webpack...  
 <img src="https://gitee.com/starte/front-examples/raw/master/images/screenshot2.png" width="600" />
 <img src="https://gitee.com/starte/front-examples/raw/master/images/screenshot3.png" width="600" /><br />
 
