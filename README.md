@@ -2,18 +2,18 @@
 
 ## projects using pure html/css/javascript  
 - slide show   
-<img src="https://gitee.com/starte/front-examples/raw/master/slideshow/screen.png" width="500" /><br />
+<img src="https://gitee.com/starte/front-examples/raw/master/slideshow/screen.png" width="600" /><br />
 open source:[YES](https://gitee.com/starte/front-examples/blob/master/slideshow)   
 [demo](https://ogood.github.io/front-examples/slideshow/index.html)  
 
 - a plain home page  
-<img src="https://gitee.com/starte/front-examples/raw/master/homepage-jq/screen.png" width="500" /><br />
+<img src="https://gitee.com/starte/front-examples/raw/master/homepage-jq/screen.png" width="600" /><br />
 open source:[YES](https://gitee.com/starte/front-examples/blob/master/homepage-jq)   
 [demo](https://ogood.github.io/front-examples/homepage-jq/index.html)
 
 - a home page with slide effect  
 built completely based on UI designer's sketch prototype  
-<img src="https://gitee.com/starte/front-examples/raw/master/images/screenshot1.png" width="500" /><br />
+<img src="https://gitee.com/starte/front-examples/raw/master/images/screenshot1.png" width="600" /><br />
 open source:NO   
 [demo](https://bot-web.chinacloudsites.cn/home.html)
 
@@ -21,9 +21,8 @@ open source:NO
 - chat bot and user's dashboard  
 built completely based on UI designer's prototype  
 using react/redux/redux-sagas/react-router/webpack...  
-<img src="https://gitee.com/starte/front-examples/raw/master/images/screenshot2.png" width="500" />
-<img src="https://gitee.com/starte/front-examples/raw/master/images/screenshot3.png" width="500" />
-
+<img src="https://gitee.com/starte/front-examples/raw/master/images/screenshot2.png" width="600" />
+<img src="https://gitee.com/starte/front-examples/raw/master/images/screenshot3.png" width="600" />
 ```
 "devDependencies": {
     "@babel/core": "^7.0.1",
