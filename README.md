@@ -62,9 +62,10 @@ open source:NO
 - to manage tenants and split monthly bills, dirty quick but useful    
 back end: django/redis/postgresql/rest framwork...   
 front end:react/redux/redux-sagas/react-router/semantic-ui...  
-<img src="https://gitee.com/starte/front-examples/raw/master/images/room1.png" width="400" />
-<img src="https://gitee.com/starte/front-examples/raw/master/images/room2.png" width="400" />
-<img src="https://gitee.com/starte/front-examples/raw/master/images/room3.png" width="400" />
+<img src="https://gitee.com/starte/front-examples/raw/master/images/room1.png" width="400" /><br />
+<img src="https://gitee.com/starte/front-examples/raw/master/images/room2.png" width="400" /><br />
+<img src="https://gitee.com/starte/front-examples/raw/master/images/room3.png" width="400" /><br />
 <img src="https://gitee.com/starte/front-examples/raw/master/images/room4.png" width="400" /><br />
+
 open source: [back end](https://gitee.com/starte/room-management)  
 [demo](http://193.112.36.151/manage/) (login:15612345678/156123)  
