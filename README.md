@@ -68,4 +68,5 @@ front end:react/redux/redux-sagas/react-router/semantic-ui...
 <img src="https://gitee.com/starte/front-examples/raw/master/images/room4.png" width="400" /><br />
 
 open source: [back end](https://gitee.com/starte/room-management)  
-[demo](http://193.112.36.151/manage/) (login:15612345678/156123)  
+[demo mobile page](http://193.112.36.151/m/)     
+[demo web page](http://193.112.36.151/manage/) (login:15612345678/156123)  
