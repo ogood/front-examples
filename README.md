@@ -15,7 +15,7 @@ open source:[YES](https://gitee.com/starte/front-examples/blob/master/homepage-j
 built completely based on UI designer's sketch prototype from scratch    
 <img src="https://gitee.com/starte/front-examples/raw/master/images/screenshot1.png" width="600" /><br />
 open source:NO   
-[demo](https://bot-web.chinacloudsites.cn/home.html)
+[demo](http://193.112.36.151:8081/home.html)
 
 ## Reactjs projects  
 - chat bot and user's dashboard  
@@ -56,7 +56,7 @@ use react/redux/redux-sagas/react-router/webpack...
   }
 ```
 open source:NO   
-[demo](https://bot-web.chinacloudsites.cn)
+[demo](http://193.112.36.151:8081/chatbot.html)
 
 ## Django+Reactjs projects  
 - to manage tenants and split monthly bills, dirty quick but useful    
